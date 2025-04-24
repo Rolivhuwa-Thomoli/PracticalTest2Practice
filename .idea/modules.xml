@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PracticalTest2Practice.iml" filepath="$PROJECT_DIR$/PracticalTest2Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticMethodsAndDataMembers/StaticMethodsAndDataMembers.iml" filepath="$PROJECT_DIR$/StaticMethodsAndDataMembers/StaticMethodsAndDataMembers.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
     </modules>
   </component>
